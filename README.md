@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4086anupam&show_icons=true&locale=en" alt="4086anupam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4086anupam&" alt="4086anupam" /></p>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="45" height="45"/>
+</a>
