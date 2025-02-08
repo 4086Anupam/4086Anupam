@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web Development**
 
-- 💬 Ask me about **C programming** & **Java **
+- 💬 Ask me about **C programming** & **Java**
 
 - 📫 How to reach me **anupam.bhunia4086@gmail.com**
 
