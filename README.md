@@ -1,30 +1,116 @@
 <h1 align="center">Hi 👋, I'm Anupam Bhunia</h1>
-<h3 align="center">Passionate Learner</h3>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4086anupam&label=Profile%20views&color=0e75b6&style=flat" alt="4086anupam" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=4086anupam&label=Profile%20views&color=0e75b6&style=flat" alt="4086anupam" />
+</p>
 
-- 🌱 I’m currently learning **Java Development**
+- 🔭 I’m currently working on **Full Stack & Backend Development Projects**
 
-- 💬 Ask me about **Java** & **SpringBoot**
+- 🌱 I’m currently learning **Advanced Java, Spring Boot**
 
-- 📫 How to reach me **anupamweb03@gmail.com**
+- 👨‍💻 All of my projects are available on my **GitHub Profile**
+
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL & Backend Development**
+
+- ⚡ Fun fact: **I enjoy building scalable backend systems and solving coding problems**
+
+- 📫 How to reach me: **anupamweb03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/anupam-bhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-bhunia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anupam-bhunia" target="blank">
+  <img align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="anupam-bhunia"
+    height="30"
+    width="40" />
+</a>
+
+<a href="https://github.com/4086anupam" target="blank">
+  <img align="center"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="github"
+    height="30"
+    width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" alt="java" width="45" height="45"/> </a> </p>
 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="45" height="45"/>
+<p align="left">
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    alt="java"
+    width="45"
+    height="45" />
 </a>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/full/80-803527_html5-css3-and-javascript-logos-html5-logo-png.png" alt="html5" width="40" height="40"/> </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4086anupam&show_icons=true&locale=en&layout=compact" alt="4086anupam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4086anupam&show_icons=true&locale=en" alt="4086anupam" /></p>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+    alt="spring"
+    width="45"
+    height="45" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4086anupam&" alt="4086anupam" /></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    alt="mysql"
+    width="45"
+    height="45" />
+</a>
 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    alt="postgresql"
+    width="45"
+    height="45" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="45"
+    height="45" />
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    alt="react"
+    width="45"
+    height="45" />
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    alt="html5"
+    width="45"
+    height="45" />
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    alt="css3"
+    width="45"
+    height="45" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    alt="git"
+    width="45"
+    height="45" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    alt="docker"
+    width="45"
+    height="45" />
+</a>
+
+</p>
+
+---
